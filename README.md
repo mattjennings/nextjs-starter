@@ -1,3 +1,10 @@
+This is my starter template for Next.js projects.
+
+It uses [theme-ui](https://theme-ui.com/) for styling and [framer-motion](https://www.framer.com/motion/) for animations. The `/components` folder contains some base
+components that I often use with theme-ui and framer-motion.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -1,9 +1,3 @@
-/**
- * Typescript & React
- * 
- * packages:
-
- */
 {
   "parser": "@typescript-eslint/parser",
   "extends": [
